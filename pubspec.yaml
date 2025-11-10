@@ -3,7 +3,7 @@
 name: ellacicy_framework                         # 必须全小写，使用下划线分隔
 description: tools and helper code           # 清晰描述包的功能
 version: 1.0.0                                  # 遵循语义化版本控制
-repository: https://github.com/yourname/your_repo
+repository: https://github.com/woshiwzy/flutter_frame_work.git
 
 
 environment:
@@ -17,13 +17,15 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   get: ^4.7.2 #get全功能组件
-  intl: 0.20.2
+  intl: ^0.20.0
   google_fonts: ^4.0.1
-  flutter_screenutil: 5.0.0+2 #屏幕适配
-  flutter_custom_dialog: 1.3.0
+  flutter_screenutil: ^5.9.1 #屏幕适配
+#  flutter_custom_dialog: 1.3.0
+  flutter_custom_dialog: ^1.2.0
+
   getwidget: ^6.0.0
   devicelocale: ^0.7.0
-  flutter_app_info: 3.0.3
+  flutter_app_info: ^3.0.0
 
 dev_dependencies:
   flutter_test:

@@ -1,7 +1,7 @@
+import 'package:ellacicy_framework/com/ellacicy/framework/custom/ext_widget/widget_util.dart';
+import 'package:ellacicy_framework/com/ellacicy/framework/utils/sized_box_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_custom_dialog/flutter_custom_dialog.dart';
-import 'package:flutter_frame_work/com/ellacicy/framework/custom/ext_widget/widget_util.dart';
-import 'package:flutter_frame_work/com/ellacicy/framework/utils/sized_box_util.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:getwidget/getwidget.dart';
